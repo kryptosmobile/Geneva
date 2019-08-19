@@ -157,6 +157,8 @@
         <plugin spec="https://github.com/venkykowshik/startapp.git" source="git" />
         
         <gap:plugin name="cordova-plugin-phonedialer" source="npm" />
+        
+        <plugin spec="https://github.com/antonioJASR/FileOpener.git" source="git" />
           
       
         <gap:config-file platform="ios" parent="UIStatusBarHidden" overwrite="true">
